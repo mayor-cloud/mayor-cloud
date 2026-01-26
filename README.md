@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://mayorstudio.xyz/i/6PQG/Banner_3.jpg" alt="MAYOR CLOUD Banner" width="100%" />
+  <img src="http://mayorstudio.xyz/i/6PQG/Banner_3.jpg" alt="3mran — MAYOR CLOUD Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm 3mran 👋</h1>
@@ -28,17 +28,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=0ea5e9&center=true&vCenter=true&width=820&lines=Building+MAYOR+CLOUD+platforms+in+2026;Automation+%7C+APIs+%7C+Dashboards+%7C+DevOps;Ship+fast.+Scale+clean.+Stay+secure." alt="Typing intro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=0ea5e9&center=true&vCenter=true&width=900&lines=Building+MAYOR+CLOUD+platforms+in+2026;Cloud+%7C+Automation+%7C+APIs+%7C+Dashboards;Ship+fast.+Scale+clean.+Stay+secure."
+    alt="Typing intro"
+  />
 </p>
 
 ---
 
-## ⚡ What I’m Building (2026)
+## ☁️ MAYOR CLOUD — What it is
 
-- ☁️ **MAYOR CLOUD Platform**: panels, customer portals, admin dashboards, multi-tenant systems  
-- 🔐 **Secure APIs**: auth, billing-ready backends, rate-limits, logging, observability  
-- ⚙️ **Automation**: bots, worker queues, webhooks, internal tools  
-- 🎮 **Game Systems**: Lua tools + backend services for game scripting ecosystems  
+**MAYOR CLOUD** is a builder-first cloud studio creating production-ready systems for creators, communities, and teams.
+
+### ✅ What I build in 2026
+- **Control panels & dashboards**: admin tools, customer portals, real-time management UIs  
+- **Scalable APIs**: auth, roles/permissions, billing-ready structure, rate-limits  
+- **Automation systems**: workers, queues, schedulers, webhooks, bots  
+- **Gaming & scripting**: Lua tooling, backend services, moderation utilities  
+
+### 🧠 Engineering principles
+- **Secure by default** (least privilege, validation, logging)
+- **Performance first** (caching, DB indexes, edge delivery)
+- **DX matters** (clean code, solid docs, stable deployments)
+- **Observable systems** (metrics, traces, alerts)
 
 ---
 
@@ -50,6 +62,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,kubernetes,githubactions,terraform,cloudflare,aws,vercel" alt="Infra stack" />
 </p>
+
+---
+
+## 📦 What you’ll find here
+
+- **Open-source building blocks** for MAYOR CLOUD projects  
+- **Reusable components** (UI, auth, API patterns)  
+- **Automation scripts** and productivity tools  
+- **Backend templates** for fast, secure shipping  
 
 ---
 
@@ -79,54 +100,85 @@
 
 ---
 
-## 🧩 “Scroll Animation” Alternative (GitHub-safe)
-
-<!-- GitHub doesn't allow real scroll animations. These expand/collapse sections simulate an interactive experience. -->
+## 🧩 Interactive Sections (GitHub-safe)
 
 <details>
-  <summary><b>✨ Click to reveal: What I’m focused on right now</b></summary>
+  <summary><b>✨ Click to reveal: Current Focus</b></summary>
   <br />
   <ul>
-    <li><b>Performance:</b> caching, edge optimization, DB tuning</li>
-    <li><b>Security:</b> auth hardening, rate limits, logging, monitoring</li>
-    <li><b>DX:</b> clean tooling, better deployments, stable CI/CD</li>
+    <li><b>Shipping:</b> stable releases, better tooling, cleaner CI/CD</li>
+    <li><b>Scaling:</b> caching, queues, database tuning, edge delivery</li>
+    <li><b>Security:</b> auth hardening, abuse protection, rate limits</li>
+    <li><b>DX:</b> templates, docs, faster setup for new projects</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🧠 Click to reveal: How I build products</b></summary>
+  <summary><b>⚙️ Click to reveal: Architecture I like</b></summary>
   <br />
   <ul>
-    <li>Start with a simple MVP → iterate fast</li>
-    <li>Strong structure (modules, services, clear boundaries)</li>
-    <li>Observability first: logs + metrics + alerts</li>
-    <li>Automate everything: deploys, tests, formatting</li>
+    <li><b>API Gateway</b> + services (or modular monolith when it makes sense)</li>
+    <li><b>Postgres</b> for core data + <b>Redis</b> for speed</li>
+    <li><b>Worker queues</b> for heavy jobs + webhooks for integrations</li>
+    <li><b>Observability</b>: logs, metrics, alerts (always)</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>📌 Click to reveal: Services MAYOR CLOUD can deliver</b></summary>
+  <summary><b>📌 Click to reveal: What MAYOR CLOUD can help with</b></summary>
   <br />
   <ul>
-    <li>Custom control panels & dashboards</li>
+    <li>Custom dashboards & control panels</li>
     <li>API development + documentation</li>
-    <li>Bot/automation systems</li>
-    <li>Cloud & deployment setup (CI/CD, Docker, Cloudflare)</li>
+    <li>Automation bots and workflows</li>
+    <li>Deployment & performance optimization</li>
   </ul>
 </details>
 
 ---
 
-## 🌐 Connect
+## 🔗 Connect (SVG Emoji Icons)
 
-<div align="center">
+<!-- These are inline SVG icons (not badge buttons). Works on GitHub README. -->
 
-[![Website](https://img.shields.io/badge/Website-mayorstudio.xyz-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayorstudio.xyz)
-[![Control Panel](https://img.shields.io/badge/Control_Panel-panel.mayorstudio.host-111827?style=for-the-badge&logo=server&logoColor=white)](https://panel.mayorstudio.host)
-[![Discord](https://img.shields.io/badge/MAYOR%20CLOUD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mayor)
-[![Developers Support](https://img.shields.io/badge/Developers%20Support-Discord-4F46E5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hCJGrtx2mN)
-[![GitHub](https://img.shields.io/badge/GitHub-@mayor--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayor-cloud)
-[![Email](https://img.shields.io/badge/Email-contact@mayorstudio.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mayorstudio.xyz)
+<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
+
+  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer" title="Website">
+    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Website">
+      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Z" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M2 12h20" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M12 2c3 3 3 17 0 20" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M12 2c-3 3-3 17 0 20" stroke="currentColor" stroke-width="1.6"/>
+    </svg>
+  </a>
+
+  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer" title="Control Panel">
+    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Control Panel">
+      <path d="M4 6h16v12H4z" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M7 9h5M7 12h10M7 15h7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+    </svg>
+  </a>
+
+  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer" title="MAYOR CLOUD Discord">
+    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Discord">
+      <path d="M8 8c1.7-1 6.3-1 8 0" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M7 18c-1-2-1.5-4.5-1-7 1-2 2-3 2-3 2-1 6-1 8 0 0 0 1 1 2 3 .5 2.5 0 5-1 7-2 1-9 1-12 0Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+      <path d="M9.5 13h.01M14.5 13h.01" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+  </a>
+
+  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer" title="Developers Support Discord">
+    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Developers Support">
+      <path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4Z" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </a>
+
+  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="GitHub">
+      <path d="M12 2C6.48 2 2 6.7 2 12.5c0 4.6 2.87 8.5 6.84 9.88.5.1.68-.23.68-.5v-1.77c-2.78.63-3.36-1.1-3.36-1.1-.46-1.2-1.13-1.52-1.13-1.52-.92-.66.07-.65.07-.65 1.02.07 1.56 1.07 1.56 1.07.9 1.6 2.36 1.14 2.94.87.09-.67.35-1.14.63-1.4-2.22-.26-4.56-1.15-4.56-5.1 0-1.13.39-2.06 1.03-2.79-.1-.26-.45-1.33.1-2.78 0 0 .84-.28 2.75 1.06A9.1 9.1 0 0 1 12 7.3c.85 0 1.7.12 2.5.35 1.9-1.34 2.74-1.06 2.74-1.06.55 1.45.2 2.52.1 2.78.64.73 1.03 1.66 1.03 2.79 0 3.96-2.35 4.83-4.58 5.09.36.33.68.98.68 1.98v2.94c0 .27.18.61.69.5A10.2 10.2 0 0 0 22 12.5C22 6.7 17.52 2 12 2Z" fill="currentColor"/>
+    </svg>
+  </a>
 
 </div>
 

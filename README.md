@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://mayorstudio.xyz/i/6PQG/Banner_3.jpg" alt="3mran — MAYOR CLOUD Banner" width="100%" />
+  <img src="http://mayorstudio.xyz/i/6PQG/Banner_3.jpg" alt="MAYOR CLOUD Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm 3mran 👋</h1>
@@ -9,121 +9,123 @@
 </h3>
 
 <p align="center">
-  <em>Cloud platforms • automation • APIs • dashboards • game scripting systems</em>
+  <em>Cloud platforms • automation • APIs • dashboards • open-source systems</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer">
-    <img alt="Follow @mayor-cloud on GitHub" src="https://img.shields.io/github/followers/mayor-cloud?label=Follow&style=for-the-badge&logo=github&color=0ea5e9">
+  <a href="https://github.com/mayor-cloud">
+    <img src="https://img.shields.io/github/followers/mayor-cloud?label=Follow&style=for-the-badge&logo=github&color=0ea5e9">
   </a>
-  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer">
-    <img alt="MAYOR CLOUD Discord" src="https://img.shields.io/badge/MAYOR%20CLOUD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.gg/mayor">
+    <img src="https://img.shields.io/badge/MAYOR%20CLOUD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer">
-    <img alt="Developers Support Discord" src="https://img.shields.io/badge/Developers%20Support-Discord-4F46E5?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.gg/hCJGrtx2mN">
+    <img src="https://img.shields.io/badge/Developers%20Support-Discord-4F46E5?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@mayor.studio" target="_blank" rel="noopener noreferrer">
-    <img alt="YouTube @mayor.studio" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-mayorstudio.xyz-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer">
-    <img alt="Control Panel" src="https://img.shields.io/badge/Control%20Panel-Access-111827?style=for-the-badge&logo=server&logoColor=white">
+  <a href="https://www.youtube.com/@mayor.studio">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=0ea5e9&center=true&vCenter=true&width=900&lines=Building+MAYOR+CLOUD+platforms+in+2026;Cloud+%7C+Automation+%7C+APIs+%7C+Dashboards;Ship+fast.+Scale+clean.+Stay+secure."
-    alt="Typing intro"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=0ea5e9&center=true&vCenter=true&width=900&lines=Building+open-source+cloud+systems+in+2026;MAYOR+CLOUD+%7C+APIs+%7C+Automation+%7C+Dashboards;Consistency+%3E+Hype" />
 </p>
 
 ---
 
-## ☁️ MAYOR CLOUD — What it is
+## ☁️ About MAYOR CLOUD
 
-**MAYOR CLOUD** is a builder-first cloud studio creating production-ready systems for creators, communities, and teams.
+**MAYOR CLOUD** is a cloud-focused development studio and open-source workspace.
 
-### ✅ What I build in 2026
-- **Control panels & dashboards**: admin tools, customer portals, real-time management UIs  
-- **Scalable APIs**: auth, roles/permissions, billing-ready structure, rate-limits  
-- **Automation systems**: workers, queues, schedulers, webhooks, bots  
-- **Gaming & scripting**: Lua tooling, backend services, moderation utilities  
+This GitHub account (**`mayor-cloud`**) is used to:
+- Publish **production-ready open-source projects**
+- Share **reusable backend & dashboard systems**
+- Maintain **automation tools and APIs**
+- Experiment with **cloud architecture and DevOps workflows**
 
-### 🧠 Engineering principles
-- **Secure by default** (least privilege, validation, logging)
-- **Performance first** (caching, DB indexes, edge delivery)
-- **DX matters** (clean code, solid docs, stable deployments)
-- **Observable systems** (metrics, traces, alerts)
+### 🔎 GitHub Focus Areas
+- Long-term maintained repositories (not demos)
+- Clean commit history & structured releases
+- Real-world usage over toy projects
+- Stability, security, and scalability
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I Build (2026)
+
+- ☁️ **Cloud Control Panels** (admin + client dashboards)
+- 🔐 **Secure APIs** (auth, roles, rate limits, logging)
+- ⚙️ **Automation Systems** (queues, schedulers, bots)
+- 🧩 **Reusable Open-Source Modules**
+- 📦 **Backend Templates** for fast shipping
+
+---
+
+## 🧰 Tech Stack Used on GitHub
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,express,python,fastapi,nginx,graphql" alt="Main stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,fastapi,nginx,graphql" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,kubernetes,githubactions,terraform,cloudflare,aws,vercel" alt="Infra stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,kubernetes,githubactions,terraform,cloudflare,aws,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics (mayor-cloud)
+## 📊 GitHub Account Analytics
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayor-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayor-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayor-cloud&show_icons=true&hide_border=true" width="49%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayor-cloud&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayor-cloud&show_icons=true&hide_border=true" width="49%" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-cloud&hide_border=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-cloud&hide_border=true&theme=default" />
-    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=mayor-cloud&hide_border=true" width="49%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-cloud&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mayor-cloud&hide_border=true" width="49%" />
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mayor-cloud&theme=react-dark&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mayor-cloud&theme=minimal&hide_border=true&area=true" />
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mayor-cloud&theme=react-dark&hide_border=true&area=true" width="100%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayor-cloud&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mayor-cloud&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+### 🥇 What These Mean
+- **Commit & contribution trophies** → consistent long-term activity  
+- **Stars & followers** → real users using the projects  
+- **Experience badges** → stable engineering, not short bursts  
 
 ---
 
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/🌐%20Website-mayorstudio.xyz-0ea5e9?style=for-the-badge">
-  </a>
-  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer">
-    <img alt="Control Panel" src="https://img.shields.io/badge/🧩%20Panel-Access-111827?style=for-the-badge">
-  </a>
-  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer">
-    <img alt="Discord" src="https://img.shields.io/badge/💬%20Discord-MAYOR%20CLOUD-5865F2?style=for-the-badge">
-  </a>
-  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer">
-    <img alt="Developers Support" src="https://img.shields.io/badge/🛠️%20Dev%20Support-Discord-4F46E5?style=for-the-badge">
-  </a>
-  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/🐙%20GitHub-@mayor--cloud-181717?style=for-the-badge">
-  </a>
-  <a href="mailto:contact@mayorstudio.xyz">
-    <img alt="Email" src="https://img.shields.io/badge/✉️%20Email-contact@mayorstudio.xyz-EA4335?style=for-the-badge">
-  </a>
+  <a href="https://mayorstudio.xyz"><img src="https://img.shields.io/badge/🌐%20Website-mayorstudio.xyz-0ea5e9?style=for-the-badge"></a>
+  <a href="https://panel.mayorstudio.host"><img src="https://img.shields.io/badge/🧩%20Panel-Access-111827?style=for-the-badge"></a>
+  <a href="https://discord.gg/mayor"><img src="https://img.shields.io/badge/💬%20Discord-MAYOR%20CLOUD-5865F2?style=for-the-badge"></a>
+  <a href="https://discord.gg/hCJGrtx2mN"><img src="https://img.shields.io/badge/🛠️%20Dev%20Support-Discord-4F46E5?style=for-the-badge"></a>
+  <a href="https://github.com/mayor-cloud"><img src="https://img.shields.io/badge/🐙%20GitHub-@mayor--cloud-181717?style=for-the-badge"></a>
+  <a href="mailto:contact@mayorstudio.xyz"><img src="https://img.shields.io/badge/✉️%20Email-contact@mayorstudio.xyz-EA4335?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayor-cloud&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mayor-cloud&color=0ea5e9&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <i>© 2026 MAYOR CLOUD • Crafted with ❤️ and ☕ by 3mran</i>
+  <i>© 2026 MAYOR CLOUD • Built with consistency, not hype</i>
 </p>

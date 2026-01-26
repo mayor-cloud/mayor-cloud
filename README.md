@@ -100,83 +100,44 @@
 
 ---
 
-## 🧩 Interactive Sections (GitHub-safe)
+## 🔗 Connect (Colored SVG Icons)
 
-<details>
-  <summary><b>✨ Click to reveal: Current Focus</b></summary>
-  <br />
-  <ul>
-    <li><b>Shipping:</b> stable releases, better tooling, cleaner CI/CD</li>
-    <li><b>Scaling:</b> caching, queues, database tuning, edge delivery</li>
-    <li><b>Security:</b> auth hardening, abuse protection, rate limits</li>
-    <li><b>DX:</b> templates, docs, faster setup for new projects</li>
-  </ul>
-</details>
+<div align="center">
 
-<details>
-  <summary><b>⚙️ Click to reveal: Architecture I like</b></summary>
-  <br />
-  <ul>
-    <li><b>API Gateway</b> + services (or modular monolith when it makes sense)</li>
-    <li><b>Postgres</b> for core data + <b>Redis</b> for speed</li>
-    <li><b>Worker queues</b> for heavy jobs + webhooks for integrations</li>
-    <li><b>Observability</b>: logs, metrics, alerts (always)</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>📌 Click to reveal: What MAYOR CLOUD can help with</b></summary>
-  <br />
-  <ul>
-    <li>Custom dashboards & control panels</li>
-    <li>API development + documentation</li>
-    <li>Automation bots and workflows</li>
-    <li>Deployment & performance optimization</li>
-  </ul>
-</details>
-
----
-
-## 🔗 Connect (SVG Emoji Icons)
-
-<!-- These are inline SVG icons (not badge buttons). Works on GitHub README. -->
-
-<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
-
-  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer" title="Website">
-    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Website">
-      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Z" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M2 12h20" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M12 2c3 3 3 17 0 20" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M12 2c-3 3-3 17 0 20" stroke="currentColor" stroke-width="1.6"/>
+  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer" title="Website" style="text-decoration:none;">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Website">
+      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Z" stroke="#0ea5e9" stroke-width="1.7"/>
+      <path d="M2 12h20" stroke="#0ea5e9" stroke-width="1.7"/>
+      <path d="M12 2c3 3 3 17 0 20" stroke="#0ea5e9" stroke-width="1.7"/>
+      <path d="M12 2c-3 3-3 17 0 20" stroke="#0ea5e9" stroke-width="1.7"/>
     </svg>
   </a>
 
-  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer" title="Control Panel">
-    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Control Panel">
-      <path d="M4 6h16v12H4z" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M7 9h5M7 12h10M7 15h7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer" title="Control Panel" style="text-decoration:none; margin-left:12px;">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Control Panel">
+      <path d="M4 6h16v12H4z" stroke="#111827" stroke-width="1.7"/>
+      <path d="M7 9h5M7 12h10M7 15h7" stroke="#111827" stroke-width="1.7" stroke-linecap="round"/>
     </svg>
   </a>
 
-  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer" title="MAYOR CLOUD Discord">
-    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Discord">
-      <path d="M8 8c1.7-1 6.3-1 8 0" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
-      <path d="M7 18c-1-2-1.5-4.5-1-7 1-2 2-3 2-3 2-1 6-1 8 0 0 0 1 1 2 3 .5 2.5 0 5-1 7-2 1-9 1-12 0Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
-      <path d="M9.5 13h.01M14.5 13h.01" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer" title="MAYOR CLOUD Discord" style="text-decoration:none; margin-left:12px;">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Discord">
+      <path d="M8 8c1.7-1 6.3-1 8 0" stroke="#5865F2" stroke-width="1.7" stroke-linecap="round"/>
+      <path d="M7 18c-1-2-1.5-4.5-1-7 1-2 2-3 2-3 2-1 6-1 8 0 0 0 1 1 2 3 .5 2.5 0 5-1 7-2 1-9 1-12 0Z" stroke="#5865F2" stroke-width="1.7" stroke-linejoin="round"/>
+      <path d="M9.5 13h.01M14.5 13h.01" stroke="#5865F2" stroke-width="3" stroke-linecap="round"/>
     </svg>
   </a>
 
-  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer" title="Developers Support Discord">
-    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="Developers Support">
-      <path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4Z" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer" title="Developers Support" style="text-decoration:none; margin-left:12px;">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Developers Support">
+      <path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4Z" stroke="#4F46E5" stroke-width="1.7"/>
+      <path d="M9 12l2 2 4-4" stroke="#4F46E5" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </a>
 
-  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" aria-label="GitHub">
-      <path d="M12 2C6.48 2 2 6.7 2 12.5c0 4.6 2.87 8.5 6.84 9.88.5.1.68-.23.68-.5v-1.77c-2.78.63-3.36-1.1-3.36-1.1-.46-1.2-1.13-1.52-1.13-1.52-.92-.66.07-.65.07-.65 1.02.07 1.56 1.07 1.56 1.07.9 1.6 2.36 1.14 2.94.87.09-.67.35-1.14.63-1.4-2.22-.26-4.56-1.15-4.56-5.1 0-1.13.39-2.06 1.03-2.79-.1-.26-.45-1.33.1-2.78 0 0 .84-.28 2.75 1.06A9.1 9.1 0 0 1 12 7.3c.85 0 1.7.12 2.5.35 1.9-1.34 2.74-1.06 2.74-1.06.55 1.45.2 2.52.1 2.78.64.73 1.03 1.66 1.03 2.79 0 3.96-2.35 4.83-4.58 5.09.36.33.68.98.68 1.98v2.94c0 .27.18.61.69.5A10.2 10.2 0 0 0 22 12.5C22 6.7 17.52 2 12 2Z" fill="currentColor"/>
+  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer" title="GitHub" style="text-decoration:none; margin-left:12px;">
+    <svg width="46" height="46" viewBox="0 0 24 24" aria-label="GitHub">
+      <path d="M12 2C6.48 2 2 6.7 2 12.5c0 4.6 2.87 8.5 6.84 9.88.5.1.68-.23.68-.5v-1.77c-2.78.63-3.36-1.1-3.36-1.1-.46-1.2-1.13-1.52-1.13-1.52-.92-.66.07-.65.07-.65 1.02.07 1.56 1.07 1.56 1.07.9 1.6 2.36 1.14 2.94.87.09-.67.35-1.14.63-1.4-2.22-.26-4.56-1.15-4.56-5.1 0-1.13.39-2.06 1.03-2.79-.1-.26-.45-1.33.1-2.78 0 0 .84-.28 2.75 1.06A9.1 9.1 0 0 1 12 7.3c.85 0 1.7.12 2.5.35 1.9-1.34 2.74-1.06 2.74-1.06.55 1.45.2 2.52.1 2.78.64.73 1.03 1.66 1.03 2.79 0 3.96-2.35 4.83-4.58 5.09.36.33.68.98.68 1.98v2.94c0 .27.18.61.69.5A10.2 10.2 0 0 0 22 12.5C22 6.7 17.52 2 12 2Z" fill="#111827"/>
     </svg>
   </a>
 

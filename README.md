@@ -25,6 +25,12 @@
   <a href="https://www.youtube.com/@mayor.studio" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube @mayor.studio" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/Website-mayorstudio.xyz-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer">
+    <img alt="Control Panel" src="https://img.shields.io/badge/Control%20Panel-Access-111827?style=for-the-badge&logo=server&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -65,15 +71,6 @@
 
 ---
 
-## 📦 What you’ll find here
-
-- **Open-source building blocks** for MAYOR CLOUD projects  
-- **Reusable components** (UI, auth, API patterns)  
-- **Automation scripts** and productivity tools  
-- **Backend templates** for fast, secure shipping  
-
----
-
 ## 📊 GitHub Analytics (mayor-cloud)
 
 <p align="center">
@@ -100,50 +97,28 @@
 
 ---
 
-## 🔗 Connect (Colored SVG Icons)
+## 🔗 Connect
 
-<div align="center">
-
-  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer" title="Website" style="text-decoration:none;">
-    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Website">
-      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Z" stroke="#0ea5e9" stroke-width="1.7"/>
-      <path d="M2 12h20" stroke="#0ea5e9" stroke-width="1.7"/>
-      <path d="M12 2c3 3 3 17 0 20" stroke="#0ea5e9" stroke-width="1.7"/>
-      <path d="M12 2c-3 3-3 17 0 20" stroke="#0ea5e9" stroke-width="1.7"/>
-    </svg>
+<p align="center">
+  <a href="https://mayorstudio.xyz" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/🌐%20Website-mayorstudio.xyz-0ea5e9?style=for-the-badge">
   </a>
-
-  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer" title="Control Panel" style="text-decoration:none; margin-left:12px;">
-    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Control Panel">
-      <path d="M4 6h16v12H4z" stroke="#111827" stroke-width="1.7"/>
-      <path d="M7 9h5M7 12h10M7 15h7" stroke="#111827" stroke-width="1.7" stroke-linecap="round"/>
-    </svg>
+  <a href="https://panel.mayorstudio.host" target="_blank" rel="noopener noreferrer">
+    <img alt="Control Panel" src="https://img.shields.io/badge/🧩%20Panel-Access-111827?style=for-the-badge">
   </a>
-
-  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer" title="MAYOR CLOUD Discord" style="text-decoration:none; margin-left:12px;">
-    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Discord">
-      <path d="M8 8c1.7-1 6.3-1 8 0" stroke="#5865F2" stroke-width="1.7" stroke-linecap="round"/>
-      <path d="M7 18c-1-2-1.5-4.5-1-7 1-2 2-3 2-3 2-1 6-1 8 0 0 0 1 1 2 3 .5 2.5 0 5-1 7-2 1-9 1-12 0Z" stroke="#5865F2" stroke-width="1.7" stroke-linejoin="round"/>
-      <path d="M9.5 13h.01M14.5 13h.01" stroke="#5865F2" stroke-width="3" stroke-linecap="round"/>
-    </svg>
+  <a href="https://discord.gg/mayor" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://img.shields.io/badge/💬%20Discord-MAYOR%20CLOUD-5865F2?style=for-the-badge">
   </a>
-
-  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer" title="Developers Support" style="text-decoration:none; margin-left:12px;">
-    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" aria-label="Developers Support">
-      <path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4Z" stroke="#4F46E5" stroke-width="1.7"/>
-      <path d="M9 12l2 2 4-4" stroke="#4F46E5" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
+  <a href="https://discord.gg/hCJGrtx2mN" target="_blank" rel="noopener noreferrer">
+    <img alt="Developers Support" src="https://img.shields.io/badge/🛠️%20Dev%20Support-Discord-4F46E5?style=for-the-badge">
   </a>
-
-  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer" title="GitHub" style="text-decoration:none; margin-left:12px;">
-    <svg width="46" height="46" viewBox="0 0 24 24" aria-label="GitHub">
-      <path d="M12 2C6.48 2 2 6.7 2 12.5c0 4.6 2.87 8.5 6.84 9.88.5.1.68-.23.68-.5v-1.77c-2.78.63-3.36-1.1-3.36-1.1-.46-1.2-1.13-1.52-1.13-1.52-.92-.66.07-.65.07-.65 1.02.07 1.56 1.07 1.56 1.07.9 1.6 2.36 1.14 2.94.87.09-.67.35-1.14.63-1.4-2.22-.26-4.56-1.15-4.56-5.1 0-1.13.39-2.06 1.03-2.79-.1-.26-.45-1.33.1-2.78 0 0 .84-.28 2.75 1.06A9.1 9.1 0 0 1 12 7.3c.85 0 1.7.12 2.5.35 1.9-1.34 2.74-1.06 2.74-1.06.55 1.45.2 2.52.1 2.78.64.73 1.03 1.66 1.03 2.79 0 3.96-2.35 4.83-4.58 5.09.36.33.68.98.68 1.98v2.94c0 .27.18.61.69.5A10.2 10.2 0 0 0 22 12.5C22 6.7 17.52 2 12 2Z" fill="#111827"/>
-    </svg>
+  <a href="https://github.com/mayor-cloud" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/🐙%20GitHub-@mayor--cloud-181717?style=for-the-badge">
   </a>
-
-</div>
-
----
+  <a href="mailto:contact@mayorstudio.xyz">
+    <img alt="Email" src="https://img.shields.io/badge/✉️%20Email-contact@mayorstudio.xyz-EA4335?style=for-the-badge">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayor-cloud&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile views" />

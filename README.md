@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayor-cloud/mayor-cloud/main/Banner_Gif.gif" />
+  <img src="https://mayorstudio.xyz/i/YRFU/Banner.jpg" alt="MAYOR CLOUD Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm 3mran 👋</h1>
